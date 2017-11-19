@@ -5,3 +5,6 @@ C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromH
 C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.csproj.CoreCompileInputs.cache
 C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.exe
 C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.pdb
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\HtmlAgilityPack.xml

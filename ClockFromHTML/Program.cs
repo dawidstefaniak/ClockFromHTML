@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.IO;
+using HtmlAgilityPack;
+using System.Threading;
 
 namespace ClockFromHTML
 {
@@ -12,13 +14,22 @@ namespace ClockFromHTML
     {
         static void Main(string[] args)
         {
-            HTMLString htmlreader = new HTMLString();
-            StreamReader sr = htmlreader.ReadHTMLStream("https://time.is");
-            using (sr)
+            int x = 0;
+            while (x == 0)
             {
-                Console.WriteLine(sr.ReadLine());
+                HtmlWeb web = new HtmlWeb();
+
+                var htmlDoc = web.Load("https://time.is");
+
+                var node = htmlDoc.GetElementbyId("twd");
+
+                Console.Clear();
+                Console.WriteLine(node.InnerHtml);
+                Thread.Sleep(400);
+                
+                
             }
-            Console.ReadKey();
+
         }
 
     }
