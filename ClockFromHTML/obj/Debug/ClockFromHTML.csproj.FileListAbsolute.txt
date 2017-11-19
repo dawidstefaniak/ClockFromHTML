@@ -1,0 +1,7 @@
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\ClockFromHTML.exe.config
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\ClockFromHTML.exe
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\bin\Debug\ClockFromHTML.pdb
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.exe
+C:\Users\dawid\Documents\GitHub\ClockFromHTML\ClockFromHTML\obj\Debug\ClockFromHTML.pdb
