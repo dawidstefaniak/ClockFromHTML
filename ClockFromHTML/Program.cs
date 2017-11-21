@@ -19,12 +19,12 @@ namespace ClockFromHTML
             {
                 HtmlWeb web = new HtmlWeb();
 
-                var htmlDoc = web.Load("https://time.is");
+                var htmlDoc = web.Load("https://time.is/London");
 
                 var node = htmlDoc.GetElementbyId("twd");
-
+                string time = node.InnerHtml;
                 Console.Clear();
-                Console.WriteLine(node.InnerHtml);
+                Console.WriteLine(time);
                 Thread.Sleep(400);
                 
                 
